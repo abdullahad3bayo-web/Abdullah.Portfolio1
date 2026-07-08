@@ -27,6 +27,16 @@ I’m building my portfolio to show the projects I created during my Data Analys
 
 
 - [Tableau] 
+<img width="482" height="294" alt="image" src="https://github.com/user-attachments/assets/0f03e288-9111-4cbf-986c-043485f386f1" />
+
+https://public.tableau.com/app/profile/abdullah.adebayo/viz/GlobalHealthInsights_17804171093110/GlobalHealthDashboard?publish=yes 
+
+
+<img width="482" height="276" alt="image" src="https://github.com/user-attachments/assets/f2530ae0-9327-48de-8eae-f89fed0f2801" />
+
+https://public.tableau.com/app/profile/abdullah.adebayo/viz/SpotifyFeatures_17803973073230/Dashboard2?publish=yes 
+
+
 
 
 
