@@ -17,7 +17,7 @@ I’m building my portfolio to show the projects I created during my Data Analys
 
 ## Projects I have completed: 
 
-- [Excel] – For one of my workbooks, I used Excel to organise sales data into a table, sort it by age, and calculate the total and average commission using basic formulas.
+- [retail_sales_dataset .xlsx] – For one of my workbooks, I used Excel to organise sales data into a table, sort it by age, and calculate the total and average commission using basic formulas.
 
  <img width="421" height="555" alt="image" src="https://github.com/user-attachments/assets/f81d51fa-f9b3-4f32-9123-fe41bbf182de" />
 
