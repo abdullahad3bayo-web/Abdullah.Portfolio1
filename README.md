@@ -17,7 +17,14 @@ I’m building my portfolio to show the projects I created during my Data Analys
 
 ## Projects I have completed: 
 
-- [Excel] – 
+- [Excel] –
+
+ <img width="421" height="555" alt="image" src="https://github.com/user-attachments/assets/f81d51fa-f9b3-4f32-9123-fe41bbf182de" />
+
+ <img width="401" height="254" alt="image" src="https://github.com/user-attachments/assets/4272206c-55da-4f90-aa2a-8637ad53ceec" />
+
+<img width="180" height="374" alt="image" src="https://github.com/user-attachments/assets/21dc5941-39ad-4e69-adcd-0af3bbfc8a12" />
+
 
 - [Tableau] 
 
