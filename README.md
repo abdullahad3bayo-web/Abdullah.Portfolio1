@@ -61,5 +61,12 @@ https://public.tableau.com/app/profile/abdullah.adebayo/viz/SpotifyFeatures_1780
 
 
 - [Python]
+<img width="471" height="298" alt="image" src="https://github.com/user-attachments/assets/365bf689-8bda-4c46-ac79-d6a3be903dc9" />
+
+
+<img width="471" height="199" alt="image" src="https://github.com/user-attachments/assets/2cbc3ed9-9467-4176-91b6-7c3501516d14" />
+
+<img width="471" height="232" alt="image" src="https://github.com/user-attachments/assets/e0445cfa-878d-4417-810e-590f7e4bc027" />
+
 
 python_visuals.ipynb
