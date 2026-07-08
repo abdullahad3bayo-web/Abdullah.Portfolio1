@@ -43,11 +43,23 @@ https://public.tableau.com/app/profile/abdullah.adebayo/viz/SpotifyFeatures_1780
 
 - [Power BI]
 
+<img width="482" height="269" alt="image" src="https://github.com/user-attachments/assets/40c109d2-5b21-4001-a3b3-f29ab98d616e" />
+
+<img width="482" height="359" alt="image" src="https://github.com/user-attachments/assets/5a9afb5b-4ae1-40a6-ace1-48df58b0514a" />
+
+<img width="482" height="198" alt="image" src="https://github.com/user-attachments/assets/48c1c09d-eb64-4f45-8351-aa13104fc407" />
+
+<img width="482" height="211" alt="image" src="https://github.com/user-attachments/assets/59e36382-e0ec-4b30-b97b-50398f4230d3" />
 
 
 - [SQL]
 
+<img width="482" height="293" alt="image" src="https://github.com/user-attachments/assets/8626e491-c9bd-49f5-92d0-4691e25af974" />
 
 
+<img width="482" height="306" alt="image" src="https://github.com/user-attachments/assets/78f9fe99-2738-4cd3-b25a-6fea5283217b" />
 
-- [Python] 
+
+- [Python]
+
+
