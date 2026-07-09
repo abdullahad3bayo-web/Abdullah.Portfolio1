@@ -79,10 +79,14 @@ Illustrated below is a screenshot from a regular virtual lab exercise where a CS
 <br>
 
 - [SQL]
-
+<br>
+<br><br>
+Below is my example of an SQL query used to retrieve the capital city of Spain from a database of country and city tables, matching the capital city ID to the corresponding city, and filtering the results to Spain. The output correctly returns Madrid, demonstrating the use of SQL joins and filtering to extract specific information from a relational database.
+<br>
 <img width="482" height="293" alt="image" src="https://github.com/user-attachments/assets/8626e491-c9bd-49f5-92d0-4691e25af974" />
 
 <br>
+Displayed below is my SQL database query code that calculates the GDP per capita for various nations by dividing their Gross National Product (GNP) by their population, filtering out countries with zero population to avoid errors or outliers. It compares each country's individual value against the global average using a subquery, and then displays only the nations that exceed that average. The bottom pane shows the output grid, from the highest calculated GDP per capita to the lowest.
 <br><br>
 <img width="482" height="306" alt="image" src="https://github.com/user-attachments/assets/78f9fe99-2738-4cd3-b25a-6fea5283217b" />
 <br>
