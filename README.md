@@ -21,16 +21,20 @@ Welcome to my Data Analysis Portfolio. This repository contains the projects I c
 
 - [Excel] – For one of my workbooks, I used Excel to organise sales data into a table, sort it by age, and calculate the total and average commission using basic formulas.
 
+This dataset contains retail sales transactions, including customer demographics, product categories, purchase quantities, and item prices for sales analysis. Here, i 
+
 <img src="https://github.com/user-attachments/assets/f81d51fa-f9b3-4f32-9123-fe41bbf182de"
      alt="Image 1"
      style="width:600px; height:600px; object-fit:contain;">
 
-<img src="https://github.com/user-attachments/assets/4272206c-55da-4f90-aa2a-8637ad53ceec"
-     alt="Image 2"
-     style="width:600px; height:600px; object-fit:contain;">
+<img width="442" height="201" alt="image" src="https://github.com/user-attachments/assets/ce7b3fa8-a2f6-4bd4-a804-f73e7a7deb5b" />
 
-<img width="180" height="374" alt="image" src="https://github.com/user-attachments/assets/21dc5941-39ad-4e69-adcd-0af3bbfc8a12" />
+<br>
+<br>
 
+Here you can see a completed Excel student grades table where i have calculated averages and highest scores with formulas, applied filters/sorting to identify top-performing students, and also made use of conditional formatting to highlight the highest and lowest average scores for quick performance analysis.
+
+<img width="1216" height="1270" alt="image" src="https://github.com/user-attachments/assets/5400b1e7-09bc-4279-8fb0-7c77d8fd85ea" />
 
 
 - [Tableau] 
