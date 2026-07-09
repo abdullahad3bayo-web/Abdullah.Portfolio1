@@ -31,17 +31,28 @@ This dataset contains retail sales transactions, including customer demographics
 
 <br>
 <br>
+<br>
+<br>
 
 Here you can see a completed Excel student grades table where i have calculated averages and highest scores with formulas, applied filters/sorting to identify top-performing students, and also made use of conditional formatting to highlight the highest and lowest average scores for quick performance analysis.
 
 <img width="1216" height="1270" alt="image" src="https://github.com/user-attachments/assets/5400b1e7-09bc-4279-8fb0-7c77d8fd85ea" />
 
-
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br>
 - [Tableau] 
+<br>
+<br>
 <img width="482" height="294" alt="image" src="https://github.com/user-attachments/assets/0f03e288-9111-4cbf-986c-043485f386f1" />
 
 https://public.tableau.com/app/profile/abdullah.adebayo/viz/GlobalHealthInsights_17804171093110/GlobalHealthDashboard?publish=yes 
 
+<br>
+<br>
 
 <img width="482" height="276" alt="image" src="https://github.com/user-attachments/assets/f2530ae0-9327-48de-8eae-f89fed0f2801" />
 
@@ -49,27 +60,32 @@ https://public.tableau.com/app/profile/abdullah.adebayo/viz/SpotifyFeatures_1780
 
 
 
-
+<br>
+<br>
 
 
 - [Power BI]
 
+Illustrated below is a screenshot from a regular virtual lab exercise where a CSV file is loaded into Power BI and i gain practical experience in cleaning and preparing data before creating reports and dashboards in Power BI.
+<br>
 <img width="482" height="269" alt="image" src="https://github.com/user-attachments/assets/40c109d2-5b21-4001-a3b3-f29ab98d616e" />
 
-<img width="482" height="359" alt="image" src="https://github.com/user-attachments/assets/5a9afb5b-4ae1-40a6-ace1-48df58b0514a" />
 
-<img width="482" height="198" alt="image" src="https://github.com/user-attachments/assets/48c1c09d-eb64-4f45-8351-aa13104fc407" />
-
-<img width="482" height="211" alt="image" src="https://github.com/user-attachments/assets/59e36382-e0ec-4b30-b97b-50398f4230d3" />
-
+<br>
+<br><br>
+<br>
 
 - [SQL]
 
 <img width="482" height="293" alt="image" src="https://github.com/user-attachments/assets/8626e491-c9bd-49f5-92d0-4691e25af974" />
 
-
+<br>
+<br><br>
 <img width="482" height="306" alt="image" src="https://github.com/user-attachments/assets/78f9fe99-2738-4cd3-b25a-6fea5283217b" />
-
+<br>
+<br><br>
+<br><br>
+<br>
 
 - [Python]
 <img width="471" height="298" alt="image" src="https://github.com/user-attachments/assets/365bf689-8bda-4c46-ac79-d6a3be903dc9" />
@@ -80,4 +96,3 @@ https://public.tableau.com/app/profile/abdullah.adebayo/viz/SpotifyFeatures_1780
 <img width="471" height="232" alt="image" src="https://github.com/user-attachments/assets/e0445cfa-878d-4417-810e-590f7e4bc027" />
 
 
-python_visuals.ipynb
