@@ -1,7 +1,9 @@
 # Hi, I’m Abdullah, 
-
-I’m building my portfolio to show the projects I created during my Data Analysis course. 
-
+<br>
+<br>
+Welcome to my Data Analysis Portfolio. This repository contains the projects I completed during my Data Analysis course. Each project gives a glimpse of how I used data to find useful insights and present the results using tools such as Excel, SQL, Python, and Power BI. These projects reflect the skills I've developed and my growing interest in data analysis.
+<br>
+<br>
 ## What I have learnt: 
 
 - Excel and data basics - Learned how to organise information, do calculations, and turn data into easy-to-understand charts and tables.
