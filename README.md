@@ -95,11 +95,24 @@ Displayed below is my SQL database query code that calculates the GDP per capita
 <br>
 
 - [Python]
+<br><br>
+<br><br>
+This code loads a spreadsheet of student grades and shows the first few names (like John Deo and Max Ruin) along with their marks.
+<br><br>
 <img width="471" height="298" alt="image" src="https://github.com/user-attachments/assets/365bf689-8bda-4c46-ac79-d6a3be903dc9" />
-
-
+<br><br>
+<br><br>
+This code sets up a bar chart (histogram) to visually graph the distribution of those student marks.
+<br><br>
 <img width="471" height="199" alt="image" src="https://github.com/user-attachments/assets/2cbc3ed9-9467-4176-91b6-7c3501516d14" />
-
+<br><br>
+<br><br>
+This code looks at the very end of a spreadsheet, but here the data has switched to a list of global countries (like Malawi and Afghanistan) and their world regions.
+<br><br>
 <img width="471" height="232" alt="image" src="https://github.com/user-attachments/assets/e0445cfa-878d-4417-810e-590f7e4bc027" />
+
+
+
+
 
 
