@@ -21,11 +21,16 @@ Welcome to my Data Analysis Portfolio. This repository contains the projects I c
 
 - [Excel] – For one of my workbooks, I used Excel to organise sales data into a table, sort it by age, and calculate the total and average commission using basic formulas.
 
- <img width="421" height="555" alt="image" src="https://github.com/user-attachments/assets/f81d51fa-f9b3-4f32-9123-fe41bbf182de" />
+<img src="https://github.com/user-attachments/assets/f81d51fa-f9b3-4f32-9123-fe41bbf182de"
+     alt="Image 1"
+     style="width:600px; height:600px; object-fit:contain;">
 
- <img width="401" height="254" alt="image" src="https://github.com/user-attachments/assets/4272206c-55da-4f90-aa2a-8637ad53ceec" />
+<img src="https://github.com/user-attachments/assets/4272206c-55da-4f90-aa2a-8637ad53ceec"
+     alt="Image 2"
+     style="width:600px; height:600px; object-fit:contain;">
 
 <img width="180" height="374" alt="image" src="https://github.com/user-attachments/assets/21dc5941-39ad-4e69-adcd-0af3bbfc8a12" />
+
 
 
 - [Tableau] 
