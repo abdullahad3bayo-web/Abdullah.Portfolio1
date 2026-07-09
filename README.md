@@ -47,13 +47,16 @@ Here you can see a completed Excel student grades table where i have calculated 
 - [Tableau] 
 <br>
 <br>
+Illustrated below is a Tableau dashboard I created to visualise a data set that consisted of global health data. It includes interactive charts comparing life expectancy across continents, trends over time, population by gender, and a colour-coded world map showing average life expectancy by country. My dashboard could have been used to present complex data in a clear, interactive format to support analysis and decision-making for stakeholders.
+<br>
 <img width="482" height="294" alt="image" src="https://github.com/user-attachments/assets/0f03e288-9111-4cbf-986c-043485f386f1" />
 
 https://public.tableau.com/app/profile/abdullah.adebayo/viz/GlobalHealthInsights_17804171093110/GlobalHealthDashboard?publish=yes 
 
 <br>
 <br>
-
+Another dashboard i created that analyses Spotify music data through interactive visualisations. It compares the popularity of different music genres and artists, explores relationships between popularity and audio features such as danceability and song duration, and uses box plots and scatter plots to identify trends and patterns.
+<br>
 <img width="482" height="276" alt="image" src="https://github.com/user-attachments/assets/f2530ae0-9327-48de-8eae-f89fed0f2801" />
 
 https://public.tableau.com/app/profile/abdullah.adebayo/viz/SpotifyFeatures_17803973073230/Dashboard2?publish=yes 
