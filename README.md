@@ -107,7 +107,7 @@ This code sets up a bar chart (histogram) to visually graph the distribution of 
 <img width="471" height="199" alt="image" src="https://github.com/user-attachments/assets/2cbc3ed9-9467-4176-91b6-7c3501516d14" />
 <br><br>
 <br><br>
-This code looks at the very end of a spreadsheet, but here the data has switched to a list of global countries (like Malawi and Afghanistan) and their world regions.
+Here, the data has switched to a list of global countries (like Malawi and Afghanistan) and their world regions.
 <br><br>
 <img width="471" height="232" alt="image" src="https://github.com/user-attachments/assets/e0445cfa-878d-4417-810e-590f7e4bc027" />
 
